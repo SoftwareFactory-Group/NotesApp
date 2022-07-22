@@ -1,2 +1,2 @@
 # NotesApp
-Notes app, Using React with expo.
+Notes app, Using React Native with expo.
