@@ -1,9 +1,13 @@
-import React from 'react';
+export default function App() {
+  const timeout = setTimeout(() => {
+    window.location.href = "/login-options";
+  }, 3000);
 
-function App() {
   return (
-    <h1>Haz lo que quieras clecli :)</h1>
+    <div className="w-screen flex flex-row h-screen">
+      <h1 className="m-auto text-3xl font-extrabold text-white">
+        LOGO REFACHERO
+      </h1>
+    </div>
   );
 }
-
-export default App;
