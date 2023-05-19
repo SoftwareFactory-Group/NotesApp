@@ -1,2 +1,2 @@
 # NotesApp
-Notes app, Using React Native with expo.
+Notes, app web progressive, Using React js and tailwind.
